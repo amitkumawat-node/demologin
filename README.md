@@ -1,8 +1,8 @@
 # How to Install
 	Step 1: Clone this repo using coomand git clone https://github.com/amitkumawat-node/demologin.git
 	step 2: Move to the appropriate directory: cd demologin
-	step 3: run npm install
-	step 4: run npm start
+	step 3: run command npm install
+	step 4: run command npm start
 # Check login Api
 	step 1: run following url in browser http://localhost:3000/api-docs
 	step 2: click on register route and create a user
