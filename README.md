@@ -1,5 +1,5 @@
 # How to Install
-	Step 1: Clone this repo using git clone 
+	Step 1: Clone this repo using coomand git clone https://github.com/amitkumawat-node/demologin.git
 	step 2: Move to the appropriate directory: cd loginapp
 	step 3: run npm install
 	step 4: run npm start
@@ -15,3 +15,4 @@
 	1. Node 
 	2. npm
 	3. mongoDB at port 27017
+	4. git 
