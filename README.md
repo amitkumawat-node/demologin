@@ -1,6 +1,6 @@
 # How to Install
 	Step 1: Clone this repo using coomand git clone https://github.com/amitkumawat-node/demologin.git
-	step 2: Move to the appropriate directory: cd loginapp
+	step 2: Move to the appropriate directory: cd demologin
 	step 3: run npm install
 	step 4: run npm start
 # Check login Api
