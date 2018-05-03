@@ -4,6 +4,7 @@ var server = require('../app');
 var request = require('request');
 var should = chai.should();
 chai.use(chaiHttp);
+//Default login
 let user = {
   email:'amitkumawat238@gmail.com',
   password:'123456@'
