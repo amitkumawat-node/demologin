@@ -17,6 +17,15 @@ describe('*********** Test Cases Start from here **************', function() {
     });
     it('should return 200 status code', function(done){
       chai.request(server)
+        .post('/api/register')
+        .send(user)
+        .end(function(err, res){
+          res.should.have.status(200);
+          done();
+        });
+    });
+    it('should return 200 status code', function(done){
+      chai.request(server)
         .post('/api/login')
         .send(user)
         .end(function(err, res){
